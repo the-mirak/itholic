@@ -13,4 +13,4 @@ This repository is of a multi container full-stack CRUD application for the IT H
 
 
 
-Reference: [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)).
+Reference: [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/).
